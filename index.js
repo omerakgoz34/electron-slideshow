@@ -1,3 +1,5 @@
 function startSlideShow() {
-	document.location.assign("main.html");
+	setTimeout(() => {
+		document.location.assign("main.html");
+	}, 500);
 }
