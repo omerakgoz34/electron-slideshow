@@ -74,6 +74,7 @@ body {
 	left: 50%;
 	transform: translateX(-50%);
 	color: white;
+	cursor: pointer;
 	text-shadow: 0 0 1px rgba(255, 255, 255, 0.75);
 	animation: shadowing 3s infinite;
 }
