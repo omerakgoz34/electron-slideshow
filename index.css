@@ -64,7 +64,7 @@ body {
 	transform: translate(-50%, -70%) scale(1.1);
 }
 
-.button-text:hover {
+.button:hover > .button-text {
 	text-shadow: 0 0 10px rgba(255, 255, 255, 1);
 }
 
