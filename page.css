@@ -19,10 +19,23 @@ body {
 	height: 75vh;
 	width: 75vh;
 	overflow: hidden;
-	border: 1vh solid rgb(115, 45, 0);
 	border-radius: 5%;
-	box-shadow: 0 1vw 1vw rgba(115, 45, 0, 0.50);
 	animation: image 1s 1;
+}
+
+#first {
+	border: 1vh solid rgb(115, 45, 0);
+	box-shadow: 0 1vw 1vw rgba(115, 45, 0, 0.50);
+}
+
+#second {
+	border: 1vh solid red;
+	box-shadow: 0 1vw 1vw rgba(255, 0, 0, 0.5);
+}
+
+#third {
+	border: 1vh solid cyan;
+	box-shadow: 0 1vw 1vw rgba(0, 255, 255, 0.5);
 }
 
 .image-img {

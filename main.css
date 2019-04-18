@@ -49,5 +49,5 @@ body {
 .btn-page:hover {
 	box-shadow: 0 0.5vw 0.5vw rgba(0, 110, 175, 0.75);
 	text-shadow: 0 0 0.5vw white;	
-	transform: translateY(-10%) scale(1.1);
+	transform: translateY(-15%) scale(1.1);
 }
