@@ -16,6 +16,7 @@ body {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	background: black;
+	color: white;
 	height: 75vh;
 	width: 75vh;
 	overflow: hidden;
