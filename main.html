@@ -14,11 +14,12 @@
 
 	<body>
 		<div class="page">
-			<iframe class="page-frame" id="page-frame" src="assets/pages/page1.html"></iframe>
+			<iframe class="page-frame" id="page-frame"></iframe>
 		</div>
+		<div class="pager" id="pager"></div>
 		<div class="btn">
-			<div class="btn-page" id="btn-1" onclick="changePage('right')"> > </div>
-			<div class="btn-page" id="btn-2" onclick="changePage('left')"> < </div>
+			<div class="btn-page" onclick="changePage('right')" spellcheck="false"> > </div>
+			<div class="btn-page" onclick="changePage('left')" spellcheck="false"> < </div>
 		</div>
 		<script type="text/javascript" src='assets/js/main.js'></script>
 	</body>
