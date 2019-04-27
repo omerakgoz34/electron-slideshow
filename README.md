@@ -1,2 +1,1 @@
-# electron-slideshow
-WEB based SlideShow with Electron
+# WEB Tabanlý bir Slayt.
